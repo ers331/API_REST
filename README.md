@@ -1,5 +1,5 @@
 # API_REST
-<h2>API contruida com Docker e Mariadb JavaScript e Node.js e MySQL<h2><br>
+<h2>API contruida com Docker , Mariadb JavaScript e MySQL<h2><br>
   
   =============================================
   <p>Comando para instalar container do docker no servidor<p>
